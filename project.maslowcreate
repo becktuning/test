@@ -12,14 +12,31 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1859,
-                    "y": 256.5,
+                    "x": 954,
+                    "y": 214,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 984,
+                    "y": 393,
+                    "uniqueID": 644972,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
                 }
             ],
             "allConnectors": [],
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": "0.1"
 }
